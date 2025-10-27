@@ -32,7 +32,9 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="h-8 w-8 rounded-full bg-primary"></div>
-            <span className="text-xl font-bold text-primary">StyleHub</span>
+            <span className="text-xl font-bold text-primary">
+              StyleHub - Manhyy
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
