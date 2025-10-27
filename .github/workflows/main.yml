@@ -13,7 +13,7 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          passowrd: ${{ secrets.PASSOWRD }}
+          password: ${{ secrets.PASSOWRD }}
           port: 22
           script: |
             cd /home/web-Stylehub
